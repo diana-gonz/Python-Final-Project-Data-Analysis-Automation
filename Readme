@@ -1,0 +1,41 @@
+
+---
+
+# README — Proyecto Python
+
+```markdown
+# 🐍 Python Final Project
+
+## 📌 Description
+This repository contains practices and a final project developed in Python as part of a certification course focused on programming, automation, and data analysis.
+
+The project applies Python programming concepts, data manipulation, and analytical techniques to solve practical problems efficiently.
+
+---
+
+## 🎯 Objectives
+- Strengthen programming logic
+- Analyze and manipulate datasets
+- Automate processes
+- Apply Python libraries for data analysis
+- Develop practical programming solutions
+
+---
+
+## 🛠️ Technologies & Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+---
+
+## 📂 Repository Structure
+
+```bash
+├── notebooks/
+├── datasets/
+├── scripts/
+├── outputs/
+└── README.md
